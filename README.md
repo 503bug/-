@@ -61,3 +61,11 @@ python -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
+
+```
+
+---
+
+## 许可证
+
+本项目基于 [MIT License](LICENSE) 发布。
