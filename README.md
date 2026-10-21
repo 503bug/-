@@ -2,6 +2,8 @@
 
 一款用于 **批量原地加密** 办公文档与 PDF 的桌面小工具，支持 Microsoft Office、WPS Office、永中 Office 与 LibreOffice 多引擎自动切换。开箱即用的 Tkinter GUI，无需命令行经验。
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 ---
 
 ## ✨ 功能特性
